@@ -1,2 +1,2 @@
-# start-se-up.io
+# start-se-up
 clube de vantagens
